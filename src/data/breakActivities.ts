@@ -91,7 +91,7 @@ export const breakActivities: BreakActivity[] = [
     id: 'quote-1',
     type: 'quote',
     title: 'Inspirational Quote',
-    description: '"Take a deep breath. It's just a bad day, not a bad life."',
+    description: '"Take a deep breath. It\'s just a bad day, not a bad life."',
   },
   {
     id: 'quote-2',
@@ -103,19 +103,19 @@ export const breakActivities: BreakActivity[] = [
     id: 'quote-3',
     type: 'quote',
     title: 'Inspirational Quote',
-    description: '"Your time is limited, so don't waste it living someone else's life." - Steve Jobs',
+    description: '"Your time is limited, so don\'t waste it living someone else\'s life." - Steve Jobs',
   },
   {
     id: 'quote-4',
     type: 'quote',
     title: 'Inspirational Quote',
-    description: '"Believe you can and you're halfway there." - Theodore Roosevelt',
+    description: '"Believe you can and you\'re halfway there." - Theodore Roosevelt',
   },
   {
     id: 'quote-5',
     type: 'quote',
     title: 'Inspirational Quote',
-    description: '"It always seems impossible until it's done." - Nelson Mandela',
+    description: '"It always seems impossible until it\'s done." - Nelson Mandela',
   },
 
   // Mindful questions
@@ -123,13 +123,13 @@ export const breakActivities: BreakActivity[] = [
     id: 'mindful-1',
     type: 'mindful',
     title: 'Mindful Reflection',
-    description: 'What are three things you're grateful for right now?',
+    description: 'What are three things you\'re grateful for right now?',
   },
   {
     id: 'mindful-2',
     type: 'mindful',
     title: 'Mindful Reflection',
-    description: 'What is one thing you've accomplished today that you're proud of?',
+    description: 'What is one thing you\'ve accomplished today that you\'re proud of?',
   },
   {
     id: 'mindful-3',
@@ -141,7 +141,7 @@ export const breakActivities: BreakActivity[] = [
     id: 'mindful-4',
     type: 'mindful',
     title: 'Mindful Reflection',
-    description: 'What is one thing you're looking forward to after work today?',
+    description: 'What is one thing you\'re looking forward to after work today?',
   },
 ];
 
