@@ -1,73 +1,44 @@
-# Welcome to your Lovable project
+# MicroBreaks
 
-## Project info
+MicroBreaks is a minimalist web application designed to promote wellness during digital work or study sessions by suggesting ultra-short (1–3 minute) breaks. These microbreaks include wellness activities such as:
 
-**URL**: https://lovable.dev/projects/c0d4aa72-df51-4b42-a805-5d8bcbf64c1a
+- Deep breathing exercises
+- Eye relaxation routines
+- Quick body stretches
+- Short motivational quotes or videos
 
-## How can I edit this code?
+## ✨ Features
 
-There are several ways of editing your application.
+- 🚀 Instant suggestions for 1–3 minute breaks
+- 🧘 Minimalist and user-friendly interface
+- ⚡ Fast and responsive design to minimize workflow disruption
+- 📱 Optimized for both desktop and mobile use
 
-**Use Lovable**
+## 📦 Tech Stack
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/c0d4aa72-df51-4b42-a805-5d8bcbf64c1a) and start prompting.
+- Frontend: HTML, CSS, JavaScript (or any frontend framework of your choice)
+- Backend: Optional (for dynamic content or usage tracking)
+- Deployment: GitHub Pages, Vercel, or Netlify
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🔧 Installation
 
-**Use your preferred IDE**
+1. Clone the repository:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+```bash
+git clone https://github.com/your-username/microbreaks.git
+cd microbreaks
 ```
 
-**Edit a file directly in GitHub**
+2. Open `index.html` in your browser, or deploy using your favorite hosting service.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🧩 Contribution
 
-**Use GitHub Codespaces**
+Contributions are welcome! Feel free to fork the repository, make improvements, and create a pull request.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 📄 License
 
-## What technologies are used for this project?
+This project is licensed under the MIT License.
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/c0d4aa72-df51-4b42-a805-5d8bcbf64c1a) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Promote wellness, one microbreak at a time. ✨
