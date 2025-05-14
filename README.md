@@ -25,8 +25,8 @@ MicroBreaks is a minimalist web application designed to promote wellness during 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/microbreaks.git
-cd microbreaks
+git clone https://github.com/Vaibhav2154/micro-break-bliss.git
+cd micro-break-bliss
 ```
 
 2. Open `index.html` in your browser, or deploy using your favorite hosting service.
